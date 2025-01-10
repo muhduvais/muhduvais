@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Uvais!
-👨‍💻 A Full Stack Web Developer<br>🖥️ Curious about technology<br>💡 A Continuous learner<br>🧭 I love exploring the digital world
+👨‍💻 A Full Stack Web Developer<br>🖥️ Curious about tech<br>💡 A Continuous learner<br>🧭 I just love exploring the digital world
 
 
 ## 🌐 Socials:
